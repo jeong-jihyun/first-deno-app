@@ -1,0 +1,4 @@
+```
+scoop install deno
+
+```
